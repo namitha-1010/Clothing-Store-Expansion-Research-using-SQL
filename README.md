@@ -1,0 +1,1 @@
+This project uses SQL to provide insights for a national mid-range clothing chain seeking new market opportunities. We analyze customer visit patterns and demographics to identify high-potential expansion locations.
